@@ -11,8 +11,11 @@ description: ''
 - Cisco Catalyst 3650 V2
 - Cisco Catalyst 3850
 - Cisco ASR-1002X
+- Cisco 7206 VXR
 - Cisco 5585-X
 - Cisco 3825
 - Cisco 2811
 - Dell H919N UPS
 - Linksys WRT54G (with DDWRT)
+- Adtran TSU 100
+- US Robotics Sportster 56K V.90 Fax Modem
