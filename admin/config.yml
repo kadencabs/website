@@ -1,3 +1,6 @@
+media_folder: "img"
+public_folder: "/img"
+
 backend:
   name: github
   repo: kadencabs/website
