@@ -1,0 +1,17 @@
+backend:
+  name: github
+  repo: kadencabs/website
+  branch: main
+
+collections:
+  - name: posts
+    label: Posts
+    folder: posts
+    create: true
+    extension: md
+    slug: "{{slug}}"
+    fields:
+      - { label: Title, name: title, widget: string }
+      - { label: Date, name: date, widget: datetime, date_format: "YYYY-MM-DD", time_format: false, format: "YYYY-MM-DD" }
+      - { label: Description, name: description, widget: string, required: false }
+      - { label: Body, name: body, widget: markdown }
