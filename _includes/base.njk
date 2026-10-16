@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ title }} | kadencabs</title>
+  <link rel="stylesheet" href="/css/bootstrap.min.css">
+  <style>body { padding-top: 20px; }</style>
+</head>
+<body>
+  <div class="container">
+    <div class="navbar">
+      <div class="navbar-inner">
+        <a class="brand" href="/">kadencabs</a>
+        <ul class="nav">
+          <li><a href="/">Home</a></li>
+        </ul>
+      </div>
+    </div>
+    {{ content | safe }}
+  </div>
+</body>
+</html>
