@@ -1,10 +1,10 @@
 ---
-title: homelab
+title: Homelab gear
 date: 2026-10-16
 description: ''
 ---
 
-## My homelab gear
+## My homelab gear:
 
 - HP DL380p Gen 8
 - Cisco 3064-X
