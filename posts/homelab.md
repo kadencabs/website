@@ -19,3 +19,6 @@ description: ''
 - Linksys WRT54G (with DDWRT)
 - Adtran TSU 100
 - US Robotics Sportster 56K V.90 Fax Modem
+- Cisco 7960
+- Cisco 7965
+- Cisco 7925
