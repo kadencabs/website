@@ -22,3 +22,4 @@ description: ''
 - Cisco 7960
 - Cisco 7965
 - Cisco 7925
+- Cisco SPA122
