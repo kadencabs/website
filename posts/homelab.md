@@ -11,10 +11,10 @@ description: ''
 - Cisco Catalyst 3650 V2
 - Cisco Catalyst 3850
 - Cisco ASR-1002X
-- Cisco 7206 VXR
-- Cisco 5585-X
-- Cisco 3825
-- Cisco 2811
+- Cisco 7206 VXR (PA-T3+)
+- Cisco 5585-X (SSP-10 FirePower, SSP-10)
+- Cisco 3825 (NM-1T3/E3, 2x WIC-1DSU-T1-V2, WIC-1T, WIC-1BU-V2)
+- Cisco 2811 (WIC-1AM-V2, VIC-4FXS/DID, VIC2-4FXO/DID
 - Dell H919N UPS
 - Linksys WRT54G (with DDWRT)
 - Adtran TSU 100
