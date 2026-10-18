@@ -8,7 +8,7 @@ description: ''
 
 - **Cisco 2511-RJ**
 - **Cisco 6015**
-- **Cisco AS5300**
+- **Cisco AS5300/AS5400**
 - Cisco LightStream 1010
 - **Cisco uBR7223VXR/uBR7225**
 - Trilithic EASyPLUS
