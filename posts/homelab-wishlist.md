@@ -19,11 +19,11 @@ description: ''
 - AIM-CUE or AIM2-CUE
 - 2x NM-1A-T3/E3
 - NM-1ATM-25
+- NM-1FE1R2W
 - NM-1FE-FX or NM-1FE-FX-V2
 - NM-4T1-IMA or NM-8T1-IMA
 - NM-4E1-IMA or NM-8E1-IMA
 - **NPE-G1**
-- PA-4R-DTR or PA-4R-FDX
 - **PA-A3-OC3MM or PA-A6-OC3MM**
 - PA-A3-T3
 - PA-A3-E3
