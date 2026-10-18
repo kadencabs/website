@@ -17,3 +17,10 @@ description: ''
 - modemcap entry V34:FD=&F:CD=&C1:DTR=&D2:MSC=S0=1L3M1%C0+DS44=0,0
 - modemcap entry V42BIS:FD=&F:CD=&C1:DTR=&D2:MSC=S0=1L3M1+DS44=0,0
 - modemcap entry V44:FD=&F:CD=&C1:DTR=&D2:MSC=S0=1L3M1+DS44=3,0
+
+**To change each entry:**
+**modem autoconfigure type _Protocol_**
+
+**example:**
+
+**modem autoconfigure type V34**
