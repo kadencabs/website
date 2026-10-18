@@ -10,7 +10,7 @@ description: ''
 - **Cisco 6015**
 - **Cisco AS5300**
 - Cisco LightStream 1010
-- **Cisco uBR7225VXR/uBR7246**
+- **Cisco uBR7223VXR/uBR7225**
 - Trilithic EASyPLUS
 
 ## Modules:
