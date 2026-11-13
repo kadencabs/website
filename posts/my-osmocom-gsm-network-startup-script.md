@@ -4,7 +4,7 @@ date: 2026-11-13
 description: ''
 ---
 
-#!/bin/bash
+`#!/bin/bash`
 
 `echo "Starting GSM..."`
 `systemctl restart osmo-nid`
